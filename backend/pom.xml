@@ -17,6 +17,7 @@
 		<java.version>11</java.version>
 	</properties>
 	
+	<!-- Important: Security Vulnerabilities CVE-2021-45105, CVE-2021-45046 and CVE-2021-44228 -->
 	<dependencyManagement>
 	  <dependencies>
 	    <dependency>
